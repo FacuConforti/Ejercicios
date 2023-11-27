@@ -11,16 +11,11 @@
     background-color: rgb(235, 227, 213);
 }
 
-.imagenes-dias img{
-    width: 300px;
-    height: 200px;
-}
-
 /* CARTAS */
 
 .container-cards .card{
-    width: 300px;
-    height: 330px;
+    width: 320px;
+    height: 290px;
     border-radius: 8px;
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -35,8 +30,8 @@
 }
 
 .container-cards .card img{
-    width: 260px;
-    height: 230px;
+    width: 280px;
+    height: 195px;
     margin: 5px;
     padding: 5px;
     transition: .5s;
